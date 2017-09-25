@@ -24,3 +24,5 @@ Then push commits to host repositories.
 $ git push origin master
 $ git subtree push --prefix=lib lib master
 ```
+
+Changes in README.md and lib/sample.md in one commit!
